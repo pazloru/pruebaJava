@@ -2,6 +2,8 @@ package pruebaJava;
 
 import java.util.Scanner;
 
+//Estamos construyendo un conversor que recoge un total de segundos y nos devuelve cuántos días, horas, minutos y segundos son 
+
 public class ConversorSegundos {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner (System.in);
